@@ -1,2 +1,4 @@
 developer will add here 
+<<<<<<< HEAD
 added voice based features
+=======
